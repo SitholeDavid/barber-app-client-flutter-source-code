@@ -1,4 +1,4 @@
-# barber_app_client
+# Barbers App
 
 This is flutter app for barbershop and salon clients. The app allows clients to book in advance to be serviced at the shop. The clients can also pay for the services they require on the app and get reminders sent to them before their booking time.
 

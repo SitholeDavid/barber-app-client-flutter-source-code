@@ -1,0 +1,10 @@
+const String SignUpViewRoute = 'SignUp';
+const String StartupViewRoute = 'Startup';
+const String LoginViewRoute = 'Login';
+const String FindShopViewRoute = 'FindShop';
+const String ShopDetailsViewRoute = 'ShopDetails';
+const String PaymentViewRoute = 'Payment';
+const String BookingViewRoute = 'Booking';
+const String DrawerViewRoute = 'Drawer';
+const String MyProfileViewRoute = 'Profile';
+const String MyBookingsViewRoute = 'MyBookings';
